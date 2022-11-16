@@ -1,0 +1,15 @@
+body{
+    font-family:serif;
+    background-image:url(assets/stars.jpg);
+    background-size:cover;
+    text-align:center;
+}
+
+h1{
+    color: blue;
+    font-size:90px;
+}
+
+article{
+    color: #EEDB00;
+}
